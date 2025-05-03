@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container-fluid{
+    /* background: conic-gradient( rgba(90, 250, 90, 0.349), rgba(88, 88, 252, 0.418), rgba(77, 76, 76, 0.212)); */
+    /* background-image: radial-gradient(rgba(255, 196, 0, 0.877) 10%, rgba(252, 250, 247, 0.986) 15%, rgba(250, 248, 248, 0.74) 60%); */
+    background: #FFFEFE;
+}
+.container-fluid img{
+    width: 100%;
+    height: 450px;
+}
